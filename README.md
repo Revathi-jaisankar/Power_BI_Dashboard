@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page1](/Images/Project1-page1.png)
+![Dashboard Page1](/Images/Project1-Page1.png) 
 
 ## Introduction
 
@@ -28,7 +28,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page1](/Images/Project1-page1.png) 
+![Dashboard Page1](/Images/Project1-Page1.png) 
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
