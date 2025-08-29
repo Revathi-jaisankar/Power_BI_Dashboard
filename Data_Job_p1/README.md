@@ -34,7 +34,7 @@ This page acts as your control center for the data job market. It highlights key
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page1](/Images/Project1-Page2.png)
+![Dashboard Page1](/Images/Project1-page2.png)
 
 This is the detailed view. You can drill through from the main dashboard to explore a single job title, including salary ranges, work-from-home opportunities, top hiring platforms, and a global map showing job locations.
 
